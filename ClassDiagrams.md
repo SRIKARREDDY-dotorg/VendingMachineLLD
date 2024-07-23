@@ -1,1 +1,1 @@
-![VendingMachine drawio](https://github.com/user-attachments/assets/e3b22e89-f6e5-4134-b1b1-cff37c731d40)
+![image](https://github.com/user-attachments/assets/85a8e97d-0abf-433f-99c3-5b07e97e3014)
